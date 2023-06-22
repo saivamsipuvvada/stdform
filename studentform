@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>
+                Assignment1
+        </title>
+    
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to the Page!</h1>
+            <h3> Fill the details given below :</h3>
+          </header>
+          
+          <body>
+            <img src="https://cdn.pixabay.com/photo/2012/03/01/01/42/hands-20333__480.jpg" align="right">
+            <form>
+              <label for="name1">First Name:</label><br>
+              <input type="text" id="name1" name="name1"><br>
+              <label for="name2">Second Name:</label><br>
+              <input type="text" id="name2" name="name2"><br>
+              <label for="name3">Last Name:</label><br>
+              <input type="text" id="name3" name="name3"><br>
+              <label for="phone">Phone Number:</label><br>
+              <input type="tel" id="name" name="phone"><br>
+              <label for="email">Email:</label><br>
+              <input type="text" id="email" name="email"><br><br>
+              <div>
+                <legend>Choose your gender:</legend>
+                  <label for="male">Male</label>
+                  <input type="radio" name="gender" id="male" value="male" checked>
+                  <label for="female">Female</label>
+                  <input type="radio" name="gender" id="female" value="female">
+              </div><br>
+              <label for="fname">Father Name:</label><br>
+              <input type="text" id="fname" name="fname"><br>
+              <label for="mname">Mother Name:</label><br>
+              <input type="text" id="mname" name="mname"><br><br>
+              <div>
+                <legend>Do you have any siblings?</legend>
+                  <label for="yes">Yes</label>
+                  <input type="radio" name="yes" id="yes" value="yes" checked>
+                  <label for="no">No</label>
+                  <input type="radio" name="yes" id="no" value="no">
+              </div><br>
+              <div>
+                  <label for="em">Employed</label>
+                  <input type="radio" name="em" id="em" value="em" checked>
+                  <label for="un">Unemployed</label>
+                  <input type="radio" name="em" id="un" value="un">
+              </div><br>
+              <label for="lin">LinkedIn profile link:</label><br>
+              <input type="url" id="lin" name="lin"><br>
+              <label for="x">10th Standard:</label><br>
+              <input type="text" id="x" name="x"><br>
+              <label for="int">Intermediate Education:</label><br>
+              <input type="text" id="int" name="int"><br>
+              <label for="ug">Under Graduation:</label><br>
+              <input type="text" id="ug" name="ug"><br>
+              <div>
+                <legend>Are you willing to study further</legend>
+                <label for="yes1">Yes</label>
+                <input type="radio" name="pg" id=yes1" value="yes1" checked>
+                <label for="no1">No</label>
+                <input type="radio" name="pg" id="no2" value="no2">
+            </div><br>
+              <input type="submit" value="Submit">
+            </form> 
+          </body>
+          
+          <footer>
+            <p>Thank you for visiting our webpage.!</p>
+          </footer>
+    </body>
+</html>
