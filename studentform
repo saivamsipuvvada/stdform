@@ -4,14 +4,12 @@
         <title>
                 Assignment1
         </title>
-    
     </head>
     <body>
         <header>
             <h1>Welcome to the Page!</h1>
             <h3> Fill the details given below :</h3>
-          </header>
-          
+          </header>    
           <body>
             <img src="https://cdn.pixabay.com/photo/2012/03/01/01/42/hands-20333__480.jpg" align="right">
             <form>
@@ -66,8 +64,7 @@
             </div><br>
               <input type="submit" value="Submit">
             </form> 
-          </body>
-          
+          </body>    
           <footer>
             <p>Thank you for visiting our webpage.!</p>
           </footer>
