@@ -1,7 +1,8 @@
 # Student Form
 
-Hi this is my first repo <br>
-This repo includes a basic code of student details using only html tags<br>
+Hi Techies! <br>
+This is my first repo <br>
+studentform includes a basic code for filling student details (using only html tags). <br>
 And here ere you go!
 
 As a part of training in Full Stack with Java I have created this form. <br>
